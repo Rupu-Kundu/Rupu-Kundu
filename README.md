@@ -1,12 +1,12 @@
 # Hi, I'm Rupu 👋
 
-### 🐍 Python & Django Developer | 🤖 AI/ML Enthusiast
+### 🐍 Python & Django Developer | ⚛️ React Developer | 🤖 AI/ML Enthusiast
 
-🎓 CSE Student passionate about **Backend Development, Python, Django, PostgreSQL & JavaScript**.
+🎓 CSE Student passionate about **Backend Development, Python, Django, React, PostgreSQL & JavaScript**.
 
-🌱 Currently learning **Django REST APIs, Backend Development & AI/ML**.
+🌱 Currently working with **Django, Django REST Framework & React**, while learning **AI/ML**.
 
-🚀 Building practical projects and continuously growing my development skills.
+🚀 Building practical full-stack web applications and continuously exploring AI/ML technologies.
 
 ### Connect with me
 
